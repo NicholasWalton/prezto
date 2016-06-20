@@ -19,3 +19,9 @@
 [submodule "modules/autosuggestions/external"]
 	path = modules/autosuggestions/external
 	url = https://github.com/tarruda/zsh-autosuggestions
+[submodule "modules/async"]
+	path = modules/async
+	url = http://github.com/mafredri/zsh-async
+[submodule "modules/fuzzy-search-and-edit"]
+	path = modules/fuzzy-search-and-edit
+	url = https://github.com/seletskiy/zsh-fuzzy-search-and-edit.git
