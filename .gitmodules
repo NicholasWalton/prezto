@@ -21,7 +21,7 @@
 	url = https://github.com/tarruda/zsh-autosuggestions
 [submodule "modules/async"]
 	path = modules/async
-	url = http://github.com/mafredri/zsh-async
+	url = https://github.com/NicholasWalton/zsh-async
 [submodule "modules/fuzzy-search-and-edit"]
 	path = modules/fuzzy-search-and-edit
-	url = https://github.com/seletskiy/zsh-fuzzy-search-and-edit.git
+	url = https://github.com/NicholasWalton/zsh-fuzzy-search-and-edit.git
