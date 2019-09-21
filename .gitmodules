@@ -25,3 +25,6 @@
 [submodule "modules/fuzzy-search-and-edit"]
 	path = modules/fuzzy-search-and-edit
 	url = https://github.com/NicholasWalton/zsh-fuzzy-search-and-edit.git
+[submodule "modules/prompt/external/garrett"]
+	path = modules/prompt/external/garrett
+	url = https://github.com/chauncey-garrett/zsh-prompt-garrett.git
